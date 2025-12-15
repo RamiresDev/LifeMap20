@@ -1,10 +1,19 @@
 # O que é o LifeMap20+ ?
 
-Esta aplicação é a materialização de uma idéia sobre a crise dos 20, afinal, há tantos caminhos, conselhos, informações, que esta crise atinge cerca de 75% dos jovens entre 20 e 30 anos. É comum que ao ser bombardeado diariamente com centenas de informações, com parâmetros de vida que façam os jovens se sentiram atrasados em comparação ao que veêm diariamente. O LifeMap20+ vem como um "roadmap" palavra que me foi muito aconselhada durante a tragetória como estudante de programação. A minha idéia é que inicialmente eu possa me organizar diariamente e poder me comparar apenas comigo mesmo. Perceber meu real avanço, e entender onde tenho errado para não avançar.
+O LifeMap20+ é uma aplicação criada a partir da reflexão sobre a chamada “crise dos 20”, vivenciada por muitos jovens adultos entre 20 e 30 anos.
+Com acesso constante a informações, comparações e expectativas irreais, é comum surgir a sensação de atraso e falta de direção. A proposta do LifeMap20+ é funcionar como um roadmap pessoal, permitindo que o usuário se organize, acompanhe sua própria evolução e se compare apenas consigo mesmo. O foco é gerar clareza, constância e percepção real de progresso ao longo do tempo.
+Este projeto também faz parte do meu processo de aprendizado em desenvolvimento de software, sendo construído de forma incremental e consciente.
 
 ## Objetivo da V1
 
-O objetivo com a primeira versão é que eu possa inserir na aplicação as Áreas, Metas, Tarefas e Registro diário. Tornando pssível gerenciar as áreas da vida, criar metas, criar tarefas e registrar o dia para a meta/objetivo/situação.
+A primeira versão tem como objetivo permitir o gerenciamento básico das principais áreas da vida, por meio de:
+
+- Cadastro de Áreas da vida
+- Criação de Metas
+- Criação e acompanhamento de Tarefas
+- Registro diário de atividades, observações e progresso
+
+A V1 será desenvolvida no console Java, com foco em lógica, orientação a objetos e organização do domínio.
 
 ## Backlog futuro
 
